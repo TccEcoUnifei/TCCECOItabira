@@ -7,11 +7,11 @@
 
   --peach: #fde3d3;
   --mint: #d9f1e4;
-  --lavender: #e6dcf7;
+  --lavender: #c3d1fb;
   --sky: #d6e9f8;
   --yellow: #fcf1c6;
 
-  --accent: #7b6bb5;
+  --accent: #421ee2;
   --accent-dark: #5d4e96;
 
   --radius: 18px;
@@ -112,7 +112,7 @@ code { background: rgba(0,0,0,.06); padding: .1em .4em; border-radius: 6px; font
 /* ---------- Hero ---------- */
 .hero {
   padding: 6rem 0 5rem;
-  background: linear-gradient(135deg, var(--peach) 0%, var(--lavender) 55%, var(--sky) 100%);
+  /* background: linear-gradient(135deg, var(--peach) 0%, var(--lavender) 55%, var(--sky) 100%); */
 }
 .hero h1 { max-width: 16em; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.8rem; }
