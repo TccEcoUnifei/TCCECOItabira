@@ -126,7 +126,7 @@ code { background: rgba(0,0,0,.06); padding: .1em .4em; border-radius: 6px; font
 .btn:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(93,78,150,.2); }
 .btn-primary { background: var(--accent); color: #fff; }
 .btn-secondary { background: var(--mint); color: var(--text); }
-.btn-ghost { background: rgba(255,255,255,.7); color: var(--text); }
+.btn-ghost { background: var(--yellow); color: var(--text); }
 
 /* ---------- Cards ---------- */
 .cards {
